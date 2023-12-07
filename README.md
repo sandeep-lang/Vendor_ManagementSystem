@@ -8,11 +8,11 @@ App Name: For_Vendors
 To install all the packages used in this project into your project:- pip install -r requirements. txt -->in the terminal
 
 Vendor_Management_System\MyVenv\VMS_PROJECT\python manage.py runserver (To run the server)
-All the functionality code written in views.py
-All the Rest Framework code written in serializers.py
-All the Database Models code writen in models.py
-All the Url End points written in urls.py
-All the logic code written in signals.py
+All the functionality code written in views.py.
+All the Rest Framework code written in serializers.py.
+All the Database Models code writen in models.py.
+All the Url End points written in urls.py.
+All the logic code written in signals.py.
 
                                            API ENDPOINTS
 1) FOR VENDOR PROFILE MANAGEMENT :-
